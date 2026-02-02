@@ -1,0 +1,6 @@
+langgraph
+chromadb
+sentence-transformers
+google-genai
+python-dotenv
+pymupdf
