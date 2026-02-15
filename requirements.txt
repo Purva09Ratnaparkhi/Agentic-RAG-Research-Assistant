@@ -4,3 +4,6 @@ sentence-transformers
 google-genai
 python-dotenv
 pymupdf
+camelot-py[cv]
+pandas
+unstructured[pdf]
